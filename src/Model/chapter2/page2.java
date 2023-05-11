@@ -1,4 +1,4 @@
-package Restaurants.chapter2;
+package Model.chapter2;
 
 public class page2 {
 
