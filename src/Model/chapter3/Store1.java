@@ -2,5 +2,7 @@ package Model.chapter3;
 
 public class Store1 {
 
-    // marshall
+    // marshall is down the street
+
+    // Quincy store.
 }
