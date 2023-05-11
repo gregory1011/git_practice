@@ -1,4 +1,4 @@
-package Models.urbans;
+package Restaurants;
 
 public class Restaurant {
     // McDonald
