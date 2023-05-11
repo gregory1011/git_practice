@@ -1,4 +1,4 @@
-package Restaurants;
+package Models.urbans;
 
 public class City {
 
