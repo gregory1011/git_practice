@@ -2,4 +2,5 @@
 
 
 // TJ max and corporations 
-// yes, i know that
+// yes, I know that.
+// or ?
